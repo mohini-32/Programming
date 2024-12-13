@@ -1,0 +1,31 @@
+[
+    {
+        "title": "book 2",
+        "author": "author 2",
+        "isbn": 98688,
+        "year": 2021,
+        "price": 12,
+        "quantity": 33,
+        "bookAddedAt": "13-12-2024 17:59:48"
+    },
+    {
+        "title": "book 3",
+        "author": "author 3",
+        "isbn": 56841,
+        "year": 2020,
+        "price": 50,
+        "quantity": 2,
+        "bookAddedAt": "13-12-2024 18:35:10",
+        "bookLastUpdatedAt": ""
+    },
+    {
+        "title": "book 5",
+        "author": "author 5",
+        "isbn": 99588,
+        "year": 2023,
+        "price": 139,
+        "quantity": 23,
+        "bookAddedAt": "13-12-2024 18:39:39",
+        "bookLastUpdatedAt": ""
+    }
+]
